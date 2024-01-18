@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+#logindiv{
+    height: 100vh;
+    background: #6C757D;
+}
+#logincard
+{
+    background: #212529;
+    height: 60vh;
+}
+#logincard2
+{
+    height: 60vh;
+}
+#aside
+{
+    width: 17%;
+    height: 90vh;
+}
+#main
+{
+    width: 83%;
+    height: 90vh;
+    background: url(images/main-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#header
+{
+    width: 100%;
+    height: 10vh;
+    z-index: 999;
+}
